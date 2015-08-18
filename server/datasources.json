@@ -4,6 +4,8 @@
     "connector": "mongodb",
     "host": "127.0.0.1", 
     "database": "demo", 
+    "username": "root", 
+    "password": "123123", 
     "port": 27017 
   }
 }
