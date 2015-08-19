@@ -1,4 +1,4 @@
-FROM index.tenxcloud.com/beiluo/nodejs:latest
+FROM index.tenxcloud.com/beiluo/nodejs:20150818
 
 MAINTAINER beiluo<chengbo.shen@apicloud.com>
 
