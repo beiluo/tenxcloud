@@ -10,7 +10,6 @@ app.start = function() {
     console.log('Web server listening at: %s', app.get('url'));
   });
 };
-
 // Bootstrap the application, configure models, datasources and middleware.
 // Sub-apps like REST API are mounted via boot scripts.
 boot(app, __dirname, function(err) {

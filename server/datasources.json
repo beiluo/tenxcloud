@@ -6,6 +6,7 @@
     "database": "demo", 
     "username": "root", 
     "password": "123123", 
-    "port": 27017 
+    "port": 27017,
+    "debug": true 
   }
 }
